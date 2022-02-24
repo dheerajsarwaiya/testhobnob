@@ -17,11 +17,11 @@ const Features = () => {
                 xmlns="http://www.w3.org/2000/svg"
                 className="w-8 h-8 "
                 viewBox="0 0 24 24"
-                stroke-width="1.5"
+                strokeWidth="1.5"
                 stroke="currentColor"
                 fill="none"
-                stroke-linecap="round"
-                stroke-linejoin="round"
+                strokeLinecap="round"
+                strokeLinejoin="round"
               >
                 <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
                 <path d="M14 3v4a1 1 0 0 0 1 1h4"></path>
@@ -45,11 +45,11 @@ const Features = () => {
                 xmlns="http://www.w3.org/2000/svg"
                 className="w-8 h-8 "
                 viewBox="0 0 24 24"
-                stroke-width="1.5"
+                strokeWidth="1.5"
                 stroke="currentColor"
                 fill="none"
-                stroke-linecap="round"
-                stroke-linejoin="round"
+                strokeLinecap="round"
+                strokeLinejoin="round"
               >
                 <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
                 <path d="M18 8a3 3 0 0 1 0 6"></path>
@@ -72,11 +72,11 @@ const Features = () => {
                 xmlns="http://www.w3.org/2000/svg"
                 className="w-8 h-8 "
                 viewBox="0 0 24 24"
-                stroke-width="1.5"
+                strokeWidth="1.5"
                 stroke="currentColor"
                 fill="none"
-                stroke-linecap="round"
-                stroke-linejoin="round"
+                strokeLinecap="round"
+                strokeLinejoin="round"
               >
                 <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
                 <polyline points="12 3 20 7.5 20 16.5 12 21 4 16.5 4 7.5 12 3"></polyline>
@@ -98,11 +98,11 @@ const Features = () => {
                 xmlns="http://www.w3.org/2000/svg"
                 className="w-8 h-8 "
                 viewBox="0 0 24 24"
-                stroke-width="1.5"
+                strokeWidth="1.5"
                 stroke="currentColor"
                 fill="none"
-                stroke-linecap="round"
-                stroke-linejoin="round"
+                strokeLinecap="round"
+                strokeLinejoin="round"
               >
                 <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
                 <path d="M8 9l3 3l-3 3"></path>
@@ -125,11 +125,11 @@ const Features = () => {
                 xmlns="http://www.w3.org/2000/svg"
                 className="w-8 h-8 "
                 viewBox="0 0 24 24"
-                stroke-width="1.5"
+                strokeWidth="1.5"
                 stroke="currentColor"
                 fill="none"
-                stroke-linecap="round"
-                stroke-linejoin="round"
+                strokeLinecap="round"
+                strokeLinejoin="round"
               >
                 <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
                 <line x1="9.5" y1="11" x2="9.51" y2="11"></line>
@@ -153,11 +153,11 @@ const Features = () => {
                 xmlns="http://www.w3.org/2000/svg"
                 className="w-8 h-8 "
                 viewBox="0 0 24 24"
-                stroke-width="1.5"
+                strokeWidth="1.5"
                 stroke="currentColor"
                 fill="none"
-                stroke-linecap="round"
-                stroke-linejoin="round"
+                strokeLinecap="round"
+                strokeLinejoin="round"
               >
                 <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
                 <line x1="15" y1="5" x2="15" y2="7"></line>

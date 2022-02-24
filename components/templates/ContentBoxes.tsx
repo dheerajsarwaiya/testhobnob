@@ -37,7 +37,7 @@ const ContentBoxes = () => {
               <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-orange-300 rounded-full">
                 <span className="text-sm font-bold">✓</span>
               </span>{" "}
-              Use "Intro" to engage with employees on specific programs
+              Use Intro to engage with employees on specific programs
             </li>
           </ul>
         </div>
